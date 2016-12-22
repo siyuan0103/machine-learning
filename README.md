@@ -5,3 +5,4 @@ Content for Udacity's Machine Learning curriculum, which includes projects and t
 ## Finished Projects:
 * **titanic survival exploration:** a simple decision tree model
 * **boston housing:** still a decision tree model, with grid search to find the optimized max. depth
+* **smartcab:** a reinforcement learning model, using Q-learning algorithm without future reward.
